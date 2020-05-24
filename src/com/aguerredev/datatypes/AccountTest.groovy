@@ -1,4 +1,4 @@
-package com.aguerredev.lesson41
+package com.aguerredev.datatypes
 /*
 In this exercise we are going to learn how to implement operator overloading on our own classes.
 

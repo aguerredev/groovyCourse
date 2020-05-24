@@ -1,4 +1,4 @@
-package com.aguerredev.lesson41
+package com.aguerredev.datatypes
 
 class Account {
 

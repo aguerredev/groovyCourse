@@ -1,4 +1,4 @@
-package com.aguerredev.lesson65
+package com.aguerredev.controlStructures
 
 /*
 [Exercise] Control Structures

@@ -1,4 +1,4 @@
-package com.aguerredev.lesson65
+package com.aguerredev.controlStructures
 
 class Account {
     BigDecimal balance = 0.0

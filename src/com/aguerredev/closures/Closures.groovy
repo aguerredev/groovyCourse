@@ -1,4 +1,4 @@
-package com.aguerredev.Iesson58
+package com.aguerredev.closures
 
 /*
 [Exercise] Using Closures

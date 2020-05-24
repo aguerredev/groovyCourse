@@ -1,4 +1,4 @@
-package com.aguerredev.lesson49
+package com.aguerredev.collections
 
 /*
 [Exercise] Using Collections

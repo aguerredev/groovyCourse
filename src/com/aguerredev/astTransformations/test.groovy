@@ -1,4 +1,4 @@
-package com.aguerredev.lesson96
+package com.aguerredev.astTransformations
 
 /*
 Use some AST Transformations

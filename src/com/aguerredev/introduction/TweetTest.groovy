@@ -1,4 +1,4 @@
-package com.aguerredev.lesson27
+package com.aguerredev.introduction
 
 /*
 In this exercise you are going to create your own class and start to think about what your class would contain.
